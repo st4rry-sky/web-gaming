@@ -83,7 +83,7 @@ export default function About() {
               <p className="about__subheading">
                 Hi, We are <span>temanchib gaming</span>
               </p>
-              <h2 className="about__heading">A freelance Web developer</h2>
+              <h2 className="about__heading">Let us introduce our self</h2>
               <div className="about__info">
                 <PText>
                   Browse through our Video, Classic, and Progressive Slots, and
@@ -105,7 +105,7 @@ export default function About() {
                   place.
                 </PText>
               </div>
-              <Button btnText="View Live Streaming" btnLink="https://www.facebook.com/Temanchib-Gaming-107531188218311" />
+              <Button btnText="View Live Streaming" btnLink="#" />
             </div>
             <div className="right">
               <img src={AboutImg} alt="me" />
