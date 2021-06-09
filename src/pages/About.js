@@ -105,7 +105,7 @@ export default function About() {
                   place.
                 </PText>
               </div>
-              <Button btnText="View Live Streaming" btnLink="#" />
+              <Button btnText="View Live Streaming" btnLink="https://www.facebook.com/Temanchib-Gaming-107531188218311" />
             </div>
             <div className="right">
               <img src={AboutImg} alt="me" />
