@@ -134,7 +134,7 @@ export default function Footer() {
         <div className="container">
           <PText>
             © 2021 - temanchib gaming | Designed By{' '}
-            <a target="_blank" rel="noreferrer" href="">
+            <a target="_blank" rel="noreferrer" href="http://google.com">
               ourself
             </a>{' '}
           </PText>
